@@ -4,6 +4,7 @@
 *.txt
 *.csv
 *.json
+*.db
 
 # Ignorar carpetas __pycache__
 __pycache__/

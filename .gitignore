@@ -1,5 +1,9 @@
 # Ignorar archivos .pyc
 *.pyc
+*.zip
+*.txt
+*.csv
+*.json
 
 # Ignorar carpetas __pycache__
 __pycache__/

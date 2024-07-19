@@ -5,6 +5,7 @@
 *.csv
 *.json
 *.db
+*.md
 
 # Ignorar carpetas __pycache__
 __pycache__/
